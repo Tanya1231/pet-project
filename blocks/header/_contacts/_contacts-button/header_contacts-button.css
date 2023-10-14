@@ -1,0 +1,29 @@
+.header_contacts-button {
+  width: 180px;
+  height: 43px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background: linear-gradient(
+      0deg,
+      rgba(131, 93, 19, 0.36),
+      rgba(131, 93, 19, 0.36)
+    ),
+    linear-gradient(263.81deg, #fbd293 10.32%, #ffd172 98.17%);
+  background: linear-gradient(
+      274.27deg,
+      rgba(255, 255, 255, 0) -14.6%,
+      rgba(255, 255, 255, 0.39) 39.52%,
+      rgba(255, 255, 255, 0) 110.6%
+    ),
+    linear-gradient(263.81deg, #ffc771 10.32%, #ffc858 98.17%);
+  box-shadow: inset 0px 2px 15px rgba(255, 255, 255, 0.41),
+    inset 19px 0px 25px rgba(255, 255, 255, 0.11);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #835d13;
+  cursor: pointer;
+}

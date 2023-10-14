@@ -1,0 +1,10 @@
+.main_text {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  position: absolute;
+  top: 40%;
+  flex-direction: column;
+  max-width: 650px;
+  margin-left: 4%;
+}

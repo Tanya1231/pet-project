@@ -1,0 +1,81 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/main/main.css);
+
+@import url(../blocks/header/_image/header_image.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/header/_logo/header_logo.css);
+
+@import url(../blocks/header/_logo/_logo-text/header_logo-text.css);
+
+@import url(../blocks/header/_container/header_container.css);
+
+@import url(../blocks/header/_messengers/_messengers-text/header_messengers-text.css);
+
+@import url(../blocks/header/_messengers/header_messengers.css);
+
+@import url(../blocks/header/_contacts/header_contacts.css);
+
+@import url(../blocks/header/_contacts/_contacts-telephone/header_contacts-telephone.css);
+
+@import url(../blocks/header/_contacts/_contacts-column-text/header__contacts-column-text.css);
+
+@import url(../blocks/header/_contacts/_contacts-column-rom/header_contacts-column-rom.css);
+
+@import url(../blocks/header/_contacts/_contacts-button/header_contacts-button.css);
+
+@import url(../blocks/header/_contacts/_contacts-column/header_contacts-column.css);
+
+@import url(../blocks/main/_text/main_text.css);
+
+@import url(../blocks/main/_text-remont/main_text-remont.css);
+
+@import url(../blocks/main/_text-remont-orange/main_text-remont-orange.css);
+
+@import url(../blocks/main/_text-remont-info/main_text-remont-info.css);
+
+@import url(../blocks/main/_text-button/main_text-button.css);
+
+@import url(../blocks/consultation/consultation.css);
+
+@import url(../blocks/consultation/_text/consultation_text.css);
+
+@import url(../blocks/consultation/_button/consultation_button.css);
+
+@import url(../blocks/consultation/_image/consultation_image.css);
+
+@import url(../blocks/consultation/_row/consultation_row.css);
+
+@import url(../blocks/tarif/_text/tarif_text.css);
+
+@import url(../blocks/tarif/_card/tarif_card.css);
+
+@import url(../blocks/tarif/_card-set/tarif_card-set.css);
+
+@import url(../blocks/tarif/_card-image/tarif_card-image.css);
+
+@import url(../blocks/tarif/_card-text/tarif_card-text.css);
+
+@import url(../blocks/tarif/_card-many/tarif_card-many.css);
+
+@import url(../blocks/tarif/_card-spisok/tarif_card-spisok.css);
+
+@import url(../blocks/tarif/_button/tarif_button.css);
+
+@import url(../blocks/tarif/_text-proect/tarif_text-proect.css);
+
+@import url(../blocks/tarif/tarif.css);
+
+@import url(../blocks/calculation/calculation_text.css);
+
+@import url(../blocks/calculation/calculation_select.css/calculation_select.css);
+
+@import url(../blocks/calculation/calculation.css);
+
+@import url(../blocks/slider/slider.css);
